@@ -1,0 +1,12 @@
+# These are eclipse project files
+**/.settings
+.project
+.classpath
+dependency-reduced-pom.xml
+# We don't save build artifacts
+**/target
+# related to spring projects
+.factorypath
+.springBeans
+# Emacs
+*~
